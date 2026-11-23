@@ -14,7 +14,7 @@ export default function App() {
           <h1>Build. Analyze. Deploy. Connect.</h1>
           <p>
             One small React project for GitHub collaboration, component analysis,
-            Vercel deployment and REST API integration.
+            Vercel deployment and REST API integration. 코드수정.
           </p>
           <span className="hero-tag">CLASS PRACTICE ONLY · NO SUBMISSION</span>
         </section>
